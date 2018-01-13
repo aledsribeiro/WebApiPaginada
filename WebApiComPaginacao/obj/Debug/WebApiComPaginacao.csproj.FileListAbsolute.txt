@@ -1,0 +1,115 @@
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\obj\Debug\WebApiComPaginacao.csprojResolveAssemblyReference.cache
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\csc.exe
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\csc.exe.config
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\csc.rsp
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\csi.exe
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\csi.rsp
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.AppContext.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.Collections.Immutable.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.IO.FileSystem.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\vbc.exe
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\vbc.exe.config
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\vbc.rsp
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\VBCSCompiler.exe
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\VBCSCompiler.exe.config
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\WebApiComPaginacao.dll.config
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\WebApiComPaginacao.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\WebApiComPaginacao.pdb
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\EntityFramework.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\EntityFramework.SqlServer.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\Newtonsoft.Json.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\System.Net.Http.Formatting.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Http.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Http.WebHost.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\EntityFramework.xml
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\EntityFramework.SqlServer.xml
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\Newtonsoft.Json.xml
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\System.Net.Http.Formatting.xml
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Http.xml
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Http.WebHost.xml
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\pt-br\System.Net.Http.Formatting.resources.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\pt-br\System.Web.Http.resources.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\bin\pt-br\System.Web.Http.WebHost.resources.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\obj\Debug\WebApiComPaginacao.dll
+c:\users\5a_pc1\documents\visual studio 2017\Projects\WebApiComPaginacao\WebApiComPaginacao\obj\Debug\WebApiComPaginacao.pdb
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\csc.exe
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\csc.exe.config
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\csc.rsp
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\csi.exe
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\csi.rsp
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.AppContext.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.Collections.Immutable.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.IO.FileSystem.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\System.Reflection.Metadata.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\vbc.exe
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\vbc.exe.config
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\vbc.rsp
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\VBCSCompiler.exe
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\roslyn\VBCSCompiler.exe.config
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\WebApiComPaginacao.dll.config
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\WebApiComPaginacao.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\WebApiComPaginacao.pdb
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\EntityFramework.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\EntityFramework.SqlServer.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\Newtonsoft.Json.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Net.Http.Formatting.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Http.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Http.WebHost.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\EntityFramework.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\EntityFramework.SqlServer.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\Newtonsoft.Json.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Net.Http.Formatting.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Http.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Http.WebHost.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\pt-br\System.Web.Http.resources.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\obj\Debug\WebApiComPaginacao.csprojResolveAssemblyReference.cache
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\obj\Debug\WebApiComPaginacao.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\obj\Debug\WebApiComPaginacao.pdb
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\Microsoft.Web.Infrastructure.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Helpers.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Mvc.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Razor.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.WebPages.Deployment.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.WebPages.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.WebPages.Razor.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\X.PagedList.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\X.PagedList.Mvc.Common.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\X.PagedList.Mvc.dll
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Helpers.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Mvc.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.Razor.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.WebPages.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.WebPages.Deployment.xml
+C:\GIT\WebApiComPaginacao\WebApiComPaginacao\bin\System.Web.WebPages.Razor.xml

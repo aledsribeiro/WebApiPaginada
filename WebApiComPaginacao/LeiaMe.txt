@@ -1,0 +1,36 @@
+﻿Json para inclusão de um novo curso
+
+{
+	"titulo":"Criando uma aplicação mvc",
+	"URL": "http://www.teste.com",
+	"Canal": "Java",
+	"DataPublicacao":"2018/01/13",
+	"CargaHoraria": 12
+}
+
+retornando o objeto criado 
+
+{
+    "Id": 1,
+    "Titulo": "Criando uma aplicação mvc",
+    "URL": "http://www.teste.com",
+    "Canal": "Java",
+    "DataPublicacao": "13/01/2018",
+    "CargaHoraria": 12
+}
+
+No header -->  é retornado um header Location:
+
+Location →http://localhost:65521/api/cursos/1
+
+possui o endereço onde podemos localizar o curso que acabamos de criar
+
+*******************************************************************************************************
+
+para paginação : http://localhost:65521/api/cursos?pagina=1&tamanhopagina=5 onde traz somente o que esta na querystring
+
+*******************************************************************************************************
+adicionando cabeçalhos customizados --> HttpContext.Current.Response.AddHeader
+
+*******************************************************************************************************
+Feito otimização da consulta criando index conforme as imagens que estão no projeto
